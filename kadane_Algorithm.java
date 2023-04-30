@@ -1,4 +1,5 @@
 // Leetcode problem no.53 for practice....
+// Time complexity O(n).
 package Algorithm;
 
 public class kadane_Algorithm {
